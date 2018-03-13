@@ -1,0 +1,41 @@
+body {
+    font-family: 'Simonetta', cursive;
+    margin-top: 20px;
+}
+
+#picture {
+    background: linear-gradient(to bottom, rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url(https://media.giphy.com/media/y3Kmtq0JJWgqk/giphy.gif);
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+}
+
+#portfolio {
+    background-color: silver;
+    padding-top: 50px;
+    
+}
+
+#portfolio img {
+    height: 200px;
+    width: 200px;
+    border:1px solid black;
+}
+
+#contact,
+#home {
+    background: linear-gradient(to bottom, rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url(https://media.giphy.com/media/y3Kmtq0JJWgqk/giphy.gif);
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+    height: 115px;
+    padding: auto;
+}
+
+#footer {
+    background: rgb(31, 30, 30);
+}
+
+
+
+
